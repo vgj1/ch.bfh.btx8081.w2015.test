@@ -1,0 +1,6 @@
+14.09.2015
+  Attendees:
+  Minutes:
+    - CS1 Task 0 setup
+      - [DONE vgj1] create repo on github
+      - [TODO all] checkout repo from github
