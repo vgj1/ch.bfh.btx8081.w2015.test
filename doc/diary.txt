@@ -3,4 +3,5 @@
   Minutes:
     - CS1 Task 0 setup
       - [DONE vgj1] create repo on github
+      - [DONE vgj1] added diary.txt
       - [TODO all] checkout repo from github
